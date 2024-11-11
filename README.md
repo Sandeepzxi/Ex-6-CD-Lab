@@ -1,5 +1,7 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
+# Name:Sandeep S
+Reg:212223220092
 # Date :
 # Aim :
 To write a program to implement the back end of the compiler.
